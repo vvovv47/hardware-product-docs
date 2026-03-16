@@ -24,6 +24,6 @@
 - 优化推理工作流后的原版产品完整推理文档（PRD / ID / HRS / MD / ICD / SRS / DVP）
 
 **优必选walkerS1人形机器人**
--完整设计文档(PRD / ID / HRS / MD / ICD / SRS / MCP/PNS/IIS/SCA/DPS/SSD/DVP)
+- 完整设计文档(PRD / ID / HRS / MD / ICD / SRS / MCP/PNS/IIS/SCA/DPS/SSD/DVP)
 
 *更多产品文档持续更新中...*
